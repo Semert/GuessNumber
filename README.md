@@ -1,9 +1,5 @@
-# NumberGuesser App
+# GuessNumber App
 
-Windows console application written in C# / .NET - Simple number guessing game. This app is from the C# / .NET tutorial on YouTube by Brad Traversy
+A colorful console app build number guessing game that you can actually compile and give to your friends!
 
-### Version
-1.0.0
-
-## Usage
-Run bin/NumberGuesser.exe
+### Guess the number without finish your limit!
